@@ -1,0 +1,651 @@
+fileFormatVersion: 2
+guid: 40ada15296775b84f975f41af061446e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: teleport-door-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 319
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f3b46810ea4f34caf9476e5cc4f33a
+      internalID: -1028750788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport-door-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 319
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375b350e8dfbc424884eb110dc9175f0
+      internalID: -2061245310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport-door-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 319
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e4837425a78b14a8f6da11bdf90ae8
+      internalID: -2118007052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport-door-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 319
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f706254b7dcf7cc429588c8b4a0596be
+      internalID: 702602794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport-door-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 319
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b7a449891b75843bf15a1018530eb4
+      internalID: 133356295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport-door-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 319
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9daa379ddad1546b6c09e00c0d6d64
+      internalID: -104525417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport-door-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 214
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514aa314ebdce4846ad2e6012b42c0f8
+      internalID: 337858483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport-door-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 214
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e189e36354971c4aa0bba08f90eb0ee
+      internalID: 861600905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport-door-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 214
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e125fee745d0c3459e54c0ddf2ed3b6
+      internalID: -1366768917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport-door-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 214
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9d2c7cdc0abe64a90129a31ba08bf3
+      internalID: -1985521363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport-door-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 214
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201f02164ef10ed44ac3a5d314246760
+      internalID: -1480260581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport-door-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 214
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebc9999366e53447a7f49e6f468a6ac
+      internalID: 876513681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport-door-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 113
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9a6b349c85fde4e92f69a818ada80f
+      internalID: -1937227275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport-door-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 113
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb95cb36d68c2c49aab23c4f9cf4a96
+      internalID: -1830907320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport-door-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 113
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed1e5ecfd109904f93bd67a811ac3ad
+      internalID: -699579512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport-door-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 113
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3b644ed17805f47b445cda863e3d3e
+      internalID: -1771787191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport-door-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 113
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2b6e6a755dbe44f8f311a49195036d
+      internalID: 1704051235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport-door-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 113
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cfdf02f3bd848458357b9130775529
+      internalID: -690646736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport-door-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 83
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304936904f9baa1439084a2738bfd44b
+      internalID: -1641845929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport-door-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 13
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76af7844df96767429b43f1532564199
+      internalID: 1423379279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport-door-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 13
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d9b625f8a3cac44b0ce7c05e5a04b9
+      internalID: -1739451132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport-door-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 13
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cb0bd5d25761f41ac0b959139d8560
+      internalID: -1075881151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport-door-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 13
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be1a073d7b6fdf42b01ff782f67ecf7
+      internalID: 822735557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleport-door-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 13
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fba2a06a8df9348823689c1d5bebb6
+      internalID: -1210638889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      teleport-door-removebg-preview_6: 337858483
+      teleport-door-removebg-preview_2: -2118007052
+      teleport-door-removebg-preview_3: 702602794
+      teleport-door-removebg-preview_21: -1075881151
+      teleport-door-removebg-preview_5: -104525417
+      teleport-door-removebg-preview_22: 822735557
+      teleport-door-removebg-preview_11: 876513681
+      teleport-door-removebg-preview_0: -1028750788
+      teleport-door-removebg-preview_7: 861600905
+      teleport-door-removebg-preview_16: 1704051235
+      teleport-door-removebg-preview_1: -2061245310
+      teleport-door-removebg-preview_15: -1771787191
+      teleport-door-removebg-preview_13: -1830907320
+      teleport-door-removebg-preview_14: -699579512
+      teleport-door-removebg-preview_12: -1937227275
+      teleport-door-removebg-preview_18: -1641845929
+      teleport-door-removebg-preview_10: -1480260581
+      teleport-door-removebg-preview_17: -690646736
+      teleport-door-removebg-preview_4: 133356295
+      teleport-door-removebg-preview_23: -1210638889
+      teleport-door-removebg-preview_8: -1366768917
+      teleport-door-removebg-preview_19: 1423379279
+      teleport-door-removebg-preview_9: -1985521363
+      teleport-door-removebg-preview_20: -1739451132
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

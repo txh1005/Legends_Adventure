@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - player
+  - checkPoint
+  - hole
+  - box
+  - slash
+  - brick
+  - boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - player
+  - 
+  - enemies
+  - enemi bulet
+  - brick
+  - pickup
+  - roomLayout
+  - roomCenter
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2425651459
+    locked: 0
+  - name: other
+    uniqueID: 4189426099
+    locked: 0
+  - name: restart
+    uniqueID: 108909279
+    locked: 0
+  - name: brick
+    uniqueID: 2886821181
+    locked: 0
+  - name: trap
+    uniqueID: 1878094103
+    locked: 0
+  - name: Player
+    uniqueID: 79958345
+    locked: 0
+  - name: enemy
+    uniqueID: 1998474823
+    locked: 0
+  - name: web
+    uniqueID: 619517675
+    locked: 0
+  - name: door
+    uniqueID: 3052860269
+    locked: 0
